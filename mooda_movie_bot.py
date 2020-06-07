@@ -8,11 +8,13 @@ Created on Thu Jun  4 20:00:20 2020
 
 """
 A chat robot that can help you find information of movies and TV works.
-The bot has been dep
+The bot has been deployed on instalgram.
 """
 
 """
-Useage: search 
+Usage: 
+Send /start to initiate the conversation.
+Run "updater.stop()" to stop the bot.
 """
 
 # Import necessary modules
