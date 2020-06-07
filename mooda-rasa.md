@@ -1,0 +1,399 @@
+## intent:greet
+- hey
+- hello
+- hi
+- Hey
+- Hello
+- Hi
+- good morning
+- good evening
+- hey there
+- hey mooda
+- hello mooda
+- hi mooda
+- good morning mooda
+- good evening mooda
+- hey there mooda
+- hey Mooda
+- hello Mooda
+- hi Mooda
+- good morning Mooda
+- good evening Mooda
+- hey there Mooda
+- Hey mooda
+- Hello mooda
+- Hi mooda
+- Good morning mooda
+- Good evening mooda
+- Hey there mooda
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- see you
+- bye mooda
+- byebye
+- bye~
+- BYE!
+- goodbye!
+- goodbye~
+- byebye, mooda
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+- are you a
+- you are a
+- who are you
+- who are u
+- u are a
+- are u a
+- you pig
+- you are a pig
+- what are you
+- what is your name
+- your name
+- who are you
+- who are u
+- what u name
+- tell me your name
+- introduce yourself
+- what can you do
+- can you
+- you can do
+- can you do
+
+## intent:work_search
+- i want know about [The Avengers](film)
+- help me find [Spiderman](film)
+- tell me [Iron Man](film)
+- search [Joseph Beuys: Transformer](film)
+- what is [Space Transformer](film)
+- tell me [Spiderman](film)
+- find [Mars Attacks!](film)
+- can you tell me about [Life on Mars](film)
+- no i want know about [The Avengers](film)
+- no, help me find [Spiderman](film)
+- none of them, tell me [Iron Man](film)
+- none of them. search [Joseph Beuys: Transformer](film)
+- not one of them what is [Space Transformer](film)
+- not, tell me [Spiderman](film)
+- this is not what I want. find [Mars Attacks!](film)
+- not them can you tell me about [Life on Mars](film)
+- the information about [Life on Mars](film)
+- [Life on Mars](film)
+- [Joseph Beuys: Transformer](film)
+- what is [Life on Mars](film)
+- give me information of [Life on Mars](film)
+- information
+- tell me about
+- tell me of
+- find the 
+- find the info
+- search
+- show me information of [The Avengers](film)
+- introduction
+- give me information of [The Avengers](film)
+- give me introduction of [The Avengers](film)
+- show me introduction
+- i want know [The Avengers](film)
+
+## intent:work_poster
+- show me the Poster
+- show me the poster of [The Avengers](film)
+- I want see the poster
+- show me some pictures about [Space Transformer](film)
+- poster
+- Poster
+- can you show me the poster
+- give me the poster
+- I want poster of [The Avengers](film)
+- show me poster of [The Avengers](film)
+- show me poster
+- show poster
+- poster of 
+- poster of [the avengers](film)
+
+## intent:work_plot
+- tell me the plot of [Space Transformer](film)
+- what does [Space Transformer](film) tell
+- what is about
+- tell me the story of [Mars Attacks!](film)
+- the plot
+- plot
+- what is the story about
+- show me the plot of [Space Transformer](film)
+- give me the plot of [Space Transformer](film)
+- the plot
+- the plot of [Mars Attacks!](film)
+- what is the story tells
+- what does it tell
+- what is the plot
+- plot
+- Plot
+- the story
+- tell me plot of [The Avengers](film)
+- i want know plot
+- i want plot of [The Avengers](film)
+
+## intent:work_actors
+- who act in the movie
+- tell me the actors
+- tell me actors of [Iron Man](film)
+- the performers of [Joseph Beuys: Transformer](film)
+- show me the actors
+- show me actors of [Space Transformer](film)
+- did [Anna](person) played in the film
+- is [Joy](person) one of the actors
+- [Kobe](person) in the series
+- give me the actors of [Space Transformer](film)
+- give me the actors
+- actor
+- actors
+- I want know the actors
+- who acts in it
+- who acts
+- who act
+- act
+- who starred
+- who stars
+- star
+- give me the actors information about [Space Transformer](film)
+- i want know actor
+
+## intent:work_directors
+- who direct the movie
+- who is the director
+- tell me the director of [Joseph Beuys: Transformer](film)
+- director
+- director of [Spiderman](film)
+- directs
+- who direct
+- the director of [Joseph Beuys: Transformer](film)
+- the director's information
+- director information
+- direction information
+- direct
+- who direct it
+- who directs it
+- i want know director
+
+## intent:work_rank
+- How do you rate the film
+- What's the evaluation of the film
+- show me the rank of [Spiderman](film)
+- rank information about [Spiderman](film)
+- score
+- tell me the score of [Space Transformer](film)
+- rank of [Spiderman](film)
+- prizes of
+- tell the prizes
+- reputation of
+- show me the reputation of [Spiderman](film)
+- how people reputate it
+- how people reputate the [Space Transformer](film)
+- show me the rank information
+- rank information
+- rank of it
+- rate
+- the rating information
+- what is the rate
+- how people rate it
+- how appreciate
+- appreciation of
+- award information
+- awards of [Space Transformer](film)
+- award of [Space Transformer](film)
+- award of
+- show me the rating information
+- show me the rating information of [Joseph Beuys: Transformer](film)
+- show me ratings
+- i want know the ratings
+- i want know ratings
+- ratings of [Joseph Beuys: Transformer](film)
+- ratings
+- rating information
+- how about this movie
+- how about [Joseph Beuys: Transformer](film)
+
+## intent:work_date
+- when did the movie show
+- When did the film come out
+- when will the film come out
+- when did the movie [Mission to Mars](film) released
+- the date of first run
+- which year
+- which date
+- when is
+- when does
+- when did
+- time of [Mission to Mars](film)
+- I want know the premiere time of [Mission to Mars](film)
+- give me the premiere time
+- show me premiere time
+- premiere time of [Mission to Mars](film)
+- premiere time
+- released time of
+- when did the movie released
+- show me release
+- when did [Mission to Mars](film) get released
+- when did [Mission to Mars](film) was issued
+- issue time
+- release time
+- i want know the issue time of [Mission to Mars](film)
+- i want know date
+
+
+## intent:work_genre
+- tell me the genre
+- what kind of film it is
+- what kind of movie is [Mission to Mars](film)
+- what type
+- what type of series is it
+- what kind
+- type of [Mission to Mars](film)
+- genre of [Mission to Mars](film)
+- kind of [Mission to Mars](film)
+- what genre
+- can you tell me the fenre of [Mission to Mars](film)?
+- i want know the genre
+- the theme
+- what them
+- theme of [Mission to Mars](film)
+- genre
+- type
+- kind
+- theme
+- the type of [Mission to Mars](film)
+- the genre of [Mission to Mars](film)
+- the kind of [Mission to Mars](film)
+- type of it
+- genre of it
+- kind of it
+- i want genre
+- i want know genre
+
+## intent:work_time
+- how long is the movie
+- is the movie very long
+- the length of [The Avengers](film)
+- the time of the movie
+- the runtime
+- i want know about the runtime
+- how many seasons
+- how long is each episode
+- the time of [The Avengers](film)
+- the runtime of [The Avengers](film)
+- i want know about the runtime of [The Avengers](film)
+- runtime
+- length
+- length of
+- runtime of
+- length of [The Avengers](film)
+- runtime of [The Avengers](film)
+- i want know runtime
+- i want know time
+- i want runtime
+
+## intent:work_number
+- I want number [three](CARDINAL)
+- I want number [one](CARDINAL)
+- I want number [two](CARDINAL)
+- I want number [four](CARDINAL)
+- I want number [five](CARDINAL)
+- I want number [six](CARDINAL)
+- I want number [seven](CARDINAL)
+- I want number [eight](CARDINAL)
+- I want number [nine](CARDINAL)
+- I want number [ten](CARDINAL)
+- I want the [third](ORDINAL) one
+- I want the [second](ORDINAL) one
+- I want the [sixth](ORDINAL) one
+- I want the [eighth](ORDINAL)
+- want [3](CARDINAL)
+- want the [tenth](ORDINAL)
+- want [fifth](ORDINAL)
+- show me number [ten](ORDINAL)
+- show me the [tenth](ORDINAL)
+- show me the [third](ORDINAL) one
+- show me the [seventh](ORDINAL)
+- give me [first](ORDINAL)
+- let me see [fourth](ORDINAL)
+- help me find [fifth](ORDINAL)
+- let me see [ninth](ORDINAL)
+- show me [3](CARDINAL)
+- show me [4](CARDINAL)
+- give me [5](CARDINAL)
+- give me [10](CARDINAL)
+- [3](CARDINAL)
+- [4](CARDINAL)
+- [5](CARDINAL)
+- [10](CARDINAL)
+- [1](CARDINAL)
+- [2](CARDINAL)
+- [6](CARDINAL)
+- [7](CARDINAL)
+- [8](CARDINAL)
+- [9](CARDINAL)
+- [first](ORDINAL)
+- [second](ORDINAL)
+- [third](ORDINAL)
+- [fourth](ORDINAL)
+- [fifth](ORDINAL)
+- [sixth](ORDINAL)
+- [seventh](ORDINAL)
+- [eighth](ORDINAL)
+- [ninth](ORDINAL)
+- [tenth](ORDINAL)
+
+## intent:thanks
+- thanks
+- Thanks
+- Thank you
+- thank you mooda
+- thank u
+- you helped a lot
+- you help me a lot
+- you did help
+- you helped
