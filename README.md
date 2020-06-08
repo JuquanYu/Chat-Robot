@@ -21,13 +21,11 @@ Now you can have a little talk with her.<br>
 ### Search a work
 Typing the title of a work to get information about it.<br>
 If more than one items were found, give Mooda the index to get a brief introduction of the one you want.<br>
-
-If you have choosed one item, you can simply ask for detailed information without typing its name.<br>
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif)
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/find%20bot.gif)<br>
 
 ### Get more information
 If you have choosed one item, you can simply ask for detailed information without typing its name.<br>
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif)
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif)<br>
 If you want detailed information of other works, you need to tell Mooda the name.<br>
 ![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/various%20bot.gif)
 
