@@ -154,6 +154,7 @@
 - show poster
 - poster of 
 - poster of [the avengers](film)
+- show me poster of name* [the avengers](film)
 
 ## intent:work_plot
 - tell me the plot of [Space Transformer](film)
