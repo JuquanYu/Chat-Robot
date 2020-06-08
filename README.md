@@ -11,7 +11,7 @@ Actors, Plot, Awards, Posters & tons of other data from Mooda.
 
 ### Find Mooda
 Search "mooda_movie_bot" in Telegram. You will find robot Mooda.<br>
-
+![](https://github.com/YuJuquan/Chat-Robot/edit/master/search bot.gif)  
 
 ### Starting chat
 
