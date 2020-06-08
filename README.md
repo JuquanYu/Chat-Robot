@@ -16,22 +16,24 @@ Search "mooda_movie_bot" in Telegram. You will find robot Mooda.<br>
 ### Starting chat
 Click start or text "/start" to start Mooda.<br>
 Now you can have a little talk with her.<br>
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/start%20bot.gif）
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/start%20bot.gif)
 
 ### Search a work
 Typing the title of a work to get information about it.<br>
-If more than one items were found, give Mooda the index to get a brief introduction of the one you want.
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif）
+If more than one items were found, give Mooda the index to get a brief introduction of the one you want.<br>
+
+If you have choosed one item, you can simply ask for detailed information without typing its name.<br>
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif)
 
 ### Get more information
 If you have choosed one item, you can simply ask for detailed information without typing its name.<br>
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif）
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/specific%20bot.gif)
 If you want detailed information of other works, you need to tell Mooda the name.<br>
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/various%20bot.gif）
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/various%20bot.gif)
 
 ### Get more information
 Remember to say thanks to Mooda, she will feel happy.<br>
-![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/bye%20bot.gif）
+![](https://github.com/YuJuquan/Chat-Robot/blob/master/demoimg/bye%20bot.gif)
 
 ## Related APIs
 To implement the function, the following APIs are used, visit them to learn more.<br>
